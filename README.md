@@ -15,4 +15,5 @@ Eu sou Fabio, sou um Programador Front-End, atualmente estou aprendendo e criand
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-devGlub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(34)984062052?logo=whatsapp&logoColor=white)](#)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#))](#)
